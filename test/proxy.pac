@@ -2437,8 +2437,8 @@ var domains = {
   "lookatgame.com": 1, 
   "darpa.mil": 1, 
   "wtfpeople.com": 1, 
-  "1-apple.com.tw": 1
-  "dropboxusercontent.com": 1
+  "1-apple.com.tw": 1,
+  "dropboxusercontent.com": 1,
   "nextmedia.com": 1
 };
 
