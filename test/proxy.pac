@@ -2438,6 +2438,7 @@ var domains = {
   "darpa.mil": 1, 
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1
+  "dropboxusercontent.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
