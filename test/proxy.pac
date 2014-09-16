@@ -2439,7 +2439,8 @@ var domains = {
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1,
   "dropboxusercontent.com": 1,
-  "nextmedia.com": 1
+  "nextmedia.com": 1,
+  "feedly.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
