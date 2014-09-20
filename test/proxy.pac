@@ -2447,7 +2447,7 @@ var domains = {
   "playpcesor.com": 1
 };
 
-var proxy = "SOCKS5 127.0.0.1:1080; PROXY 127.0.0.1:1980; DIRECT;";
+var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
 
 var direct = 'DIRECT;';
 
