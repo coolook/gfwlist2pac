@@ -2444,7 +2444,8 @@ var domains = {
   "appledaily.com.tw": 1,
   "video.appledaily.com.hk": 1,
   "cdn.videoplaza.tv": 1,
-  "playpcesor.com": 1
+  "playpcesor.com": 1,
+  "ablwang.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
