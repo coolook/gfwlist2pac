@@ -2446,7 +2446,8 @@ var domains = {
   "cdn.videoplaza.tv": 1,
   "playpcesor.com": 1,
   "ablwang.com": 1,
-  "storebt.com": 1
+  "storebt.com": 1,
+  "na.cx": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
