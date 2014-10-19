@@ -2448,7 +2448,8 @@ var domains = {
   "ablwang.com": 1,
   "storebt.com": 1,
   "na.cx": 1,
-  "holland.pk": 1
+  "holland.pk": 1,
+  "video.next.hk"
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
