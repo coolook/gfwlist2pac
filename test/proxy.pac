@@ -2449,7 +2449,7 @@ var domains = {
   "storebt.com": 1,
   "na.cx": 1,
   "holland.pk": 1,
-  "video.next.hk"
+  "video.next.hk": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
