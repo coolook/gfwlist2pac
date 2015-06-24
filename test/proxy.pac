@@ -2454,7 +2454,8 @@ var domains = {
   "v2ex.com": 1,
   "inoreader.com": 1,
   "imgur.com": 1,
-  "softlayer.net": 1
+  "softlayer.net": 1,
+  "cdn.softlayer.net": 1
 };
 
 var proxy = "PROXY 127.0.0.1:8087; DIRECT;";
