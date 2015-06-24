@@ -1646,7 +1646,6 @@ var domains = {
   "twapperkeeper.com": 1, 
   "rushbee.com": 1, 
   "zoho.com": 1, 
-  "sendspace.com": 1, 
   "proxomitron.info": 1, 
   "allmovie.com": 1, 
   "google.com": 1, 
@@ -2449,10 +2448,15 @@ var domains = {
   "storebt.com": 1,
   "na.cx": 1,
   "holland.pk": 1,
-  "video.next.hk": 1
+  "video.next.hk": 1,
+  "hkgolden.com": 1,
+  "fbstatic-a.akamaihd.net": 1,
+  "v2ex.com": 1,
+  "inoreader.com": 1,
+  "imgur.com": 1
 };
 
-var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
+var proxy = "PROXY 127.0.0.1:8087; DIRECT;";
 
 var direct = 'DIRECT;';
 
