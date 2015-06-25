@@ -90,3 +90,4 @@
 ||pixnet.in
 ||inoreader.com
 ||hkgolden.com
+||books.com.tw
