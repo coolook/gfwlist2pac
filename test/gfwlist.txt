@@ -88,3 +88,5 @@
 ||pixplug.in
 ||pixanalytics.com
 ||pixnet.in
+||inoreader.com
+||hkgolden.com
