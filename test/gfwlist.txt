@@ -85,3 +85,5 @@
 ||softlayer.net
 ||greatfire.org
 ||chinadigitaltimes.net
+||pixplug.in
+||pixanalytics.com
