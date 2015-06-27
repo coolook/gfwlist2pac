@@ -92,3 +92,5 @@
 ||hkgolden.com
 ||books.com.tw
 ||book.com.tw
+||akamaihd.net
+||atdmt.com
