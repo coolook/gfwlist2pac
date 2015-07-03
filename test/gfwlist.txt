@@ -94,3 +94,4 @@
 ||book.com.tw
 ||akamaihd.net
 ||atdmt.com
+||memehk.com
