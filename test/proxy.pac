@@ -2458,7 +2458,7 @@ var domains = {
   "df6a.https.cdn.softlayer.net": 1
 };
 
-var proxy = "PROXY 127.0.0.1:8087; DIRECT;";
+var proxy = "SOCKS5 127.0.0.1:8080; DIRECT;";
 
 var direct = 'DIRECT;';
 
