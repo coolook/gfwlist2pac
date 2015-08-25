@@ -13,6 +13,7 @@
 ||fbcdn.net
 ||google.com
 ||google.com.hk
+||googlecode.com
 ||ggpht.com
 ||ytimg.com
 ||youtube-nocookie.com
