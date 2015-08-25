@@ -34,6 +34,7 @@
 ||on.cc
 ||mobile01.com
 ||hkgolden.com
+@@||forum14.hkgolden.com
 ||xuite.net
 ||huaren.us
 ||boxun.com
