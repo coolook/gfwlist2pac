@@ -12,6 +12,7 @@
 ||gstatic.com
 ||fbcdn.net
 ||google.com
+||google.com.hk
 ||ggpht.com
 ||ytimg.com
 ||youtube-nocookie.com
@@ -90,7 +91,6 @@
 ||pixanalytics.com
 ||pixnet.in
 ||inoreader.com
-||hkgolden.com
 ||books.com.tw
 ||book.com.tw
 ||akamaihd.net
