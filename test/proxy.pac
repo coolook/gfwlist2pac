@@ -2455,10 +2455,11 @@ var domains = {
   "inoreader.com": 1,
   "imgur.com": 1,
   "softlayer.net": 1,
-  "df6a.https.cdn.softlayer.net": 1
+  "df6a.https.cdn.softlayer.net": 1,
+  "youav.com": 1
 };
 
-var proxy = "SOCKS5 127.0.0.1:8080; DIRECT;";
+var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
 
 var direct = 'DIRECT;';
 
