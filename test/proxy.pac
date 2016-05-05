@@ -2457,7 +2457,8 @@ var domains = {
   "softlayer.net": 1,
   "df6a.https.cdn.softlayer.net": 1,
   "youav.com": 1,
-  "i-cable.com": 1
+  "i-cable.com": 1,
+  "funpeer.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; DIRECT;";
