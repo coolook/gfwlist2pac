@@ -7503,7 +7503,8 @@
       "lookatgame.com": 1,
       "darpa.mil": 1,
       "wtfpeople.com": 1,
-      "1-apple.com.tw": 1
+      "1-apple.com.tw": 1,
+      "dmm.co.jp": 1
     };
    // safePorts must in order for matching
     var safePorts = [
